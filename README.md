@@ -35,6 +35,7 @@ cd todo-list-app
 
 Inside the project directory, install the project dependencies using npm or yarn:
 
+
 npm install
 # or
 yarn install
@@ -104,6 +105,9 @@ Specify the license under which you're releasing your project, such as MIT, Apac
 
 
 This README file is now complete and provides comprehensive information for users and contributors to understand and use your Todo List App with Firebase Authentication.
+
+![WhatsApp Image 2023-09-27 at 09 36 35](https://github.com/dmethi9871/Todo-App/assets/76877961/f2a55903-8da3-4251-8984-8b2948af3db1)
+
 
 
 
