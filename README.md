@@ -52,7 +52,6 @@ firebase login
 Create a Firebase configuration file (usually named firebase.js) in your project's source code. This file should contain your Firebase project configuration details. You can find these details in your Firebase project settings.
 
 Example firebase.js:
-
 import firebase from 'firebase/app';
 import 'firebase/auth';
 
@@ -64,6 +63,8 @@ const firebaseConfig = {
   messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
   appId: 'YOUR_APP_ID',
 };
+
+
 
 firebase.initializeApp(firebaseConfig);
 
